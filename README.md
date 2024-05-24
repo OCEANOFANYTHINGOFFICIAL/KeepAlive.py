@@ -2,9 +2,8 @@
 
 ![KeepAlive Preview](preview.png)
 
-<center>
+<div style="text-align: center;">
 
-[![Release](https://img.shields.io/badge/Release-v1.0-blue.svg)](#version)
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/downloads/)
 [![Version](https://img.shields.io/badge/Version-1.0-brightgreen.svg)](#version)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20Linux-lightgrey.svg)](#platforms)
@@ -13,7 +12,9 @@
 [![Stars](https://img.shields.io/github/stars/oceanofanythingofficial/KeepAlive.svg)](https://github.com/oceanofanythingofficial/KeepAlive/stargazers)
 [![Forks](https://img.shields.io/github/forks/oceanofanythingofficial/KeepAlive.svg)](https://github.com/oceanofanythingofficial/KeepAlive/network/members)
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-</center>
+
+</div>
+
 
 KeepAlive.py is a Python script designed to prevent system sleep or screen lock by simulating mouse movements at random intervals. It utilizes the pyautogui library for controlling the mouse, as well as the threading and keyboard modules for concurrent execution and key press detection, respectively.
 
