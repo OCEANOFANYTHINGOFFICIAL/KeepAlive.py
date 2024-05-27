@@ -1,6 +1,6 @@
 # KeepAlive.py
 
-[![How to stay active forever using python](preview.png)]([https://www.youtube.com/watch?v=StTqXEQ2l-Y](https://www.youtube.com/watch?v=R3odvM3YVMI) "How to stay active forever using python")
+[How to stay active forever using python](preview.png)
 
 <div style="text-align: center;">
 
@@ -17,6 +17,9 @@
 
 
 KeepAlive.py is a Python script designed to prevent system sleep or screen lock by simulating mouse movements at random intervals. It utilizes the pyautogui library for controlling the mouse, as well as the threading and keyboard modules for concurrent execution and key press detection, respectively.
+## Video Tutorial
+
+[![How to stay active forever using python](https://img.youtube.com/vi/R3odvM3YVMI/0.jpg)](https://www.youtube.com/watch?v=R3odvM3YVMI)
 
 ## Features
 
