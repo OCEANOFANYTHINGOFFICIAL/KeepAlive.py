@@ -18,6 +18,10 @@
 
 KeepAlive.py is a Python script designed to prevent system sleep or screen lock by simulating mouse movements at random intervals. It utilizes the pyautogui library for controlling the mouse, as well as the threading and keyboard modules for concurrent execution and key press detection, respectively.
 
+## Video Tutorial
+
+<iframe type="text/html" frameborder="0" width="1920" height="1080" src="https://www.youtube.com/embed/R3odvM3YVMI?autoplay=1&cc_load_policy=1&loop=1&playlist=R3odvM3YVMI&modestbranding=1" allowfullscreen></iframe>
+
 ## Features
 
 - **Randomized Mouse Movement**: The script generates random mouse movements within the screen boundaries at specified intervals, ensuring that the system remains active.
